@@ -1,1 +1,2 @@
 # Бэк проекта
+Python + NodeJS
